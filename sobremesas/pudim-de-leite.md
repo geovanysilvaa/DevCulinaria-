@@ -15,3 +15,10 @@
 
 ## Categoria
 Sobremesas
+
+---
+
+---
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../MENU.md)
