@@ -26,7 +26,7 @@
 
 - 6 Asse por 35–45 minutos, ou até dourar e ficar firme.
 
-- 7 Retire do forno, deixe descansar por alguns minutos e sirva.
+- 7 Retire do forno, deixe descansar por alguns minutos e sirva
 
 [Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)
