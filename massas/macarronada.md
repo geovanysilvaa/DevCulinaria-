@@ -29,3 +29,6 @@ Use um escorredor para retirar toda a água.
 Se quiser, você pode reservar um pouco da água do cozimento para ajustar a consistência do molho depois.
 5. Sirva imediatamente
 Misture o macarrão com o molho de sua preferência (tomate, branco, bolonhesa etc.) e sirva quente.
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)

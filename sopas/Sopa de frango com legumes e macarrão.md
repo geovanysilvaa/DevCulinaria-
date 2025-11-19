@@ -56,3 +56,6 @@ Finalização:
 - Adicione o macarrão e cozinhe por mais 8 a 10 minutos, até ele ficar al dente.
 - Finalize:
 - Ajuste o sal, adicione cheiro-verde picado e desligue o fogo.
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)

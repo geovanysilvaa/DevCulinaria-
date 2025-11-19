@@ -50,3 +50,6 @@ Ingredientes para a Salada:
     Sal e pimenta-do-reino a gosto
 
     1 colher de sopa de mostarda Dijon (opcional)
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)

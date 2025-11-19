@@ -27,3 +27,6 @@ Uma sopa nutritiva, saborosa e perfeita para dias frios.
     *1 folha de louro.
 
     *Salsinha e cebolinha picadas para finalizar.
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)

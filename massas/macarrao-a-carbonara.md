@@ -12,3 +12,6 @@ Queijo parmesão ou pecorino ralado: 50–100 g
 Pimenta do reino moída: a gosto
 
 Sal: apenas para a água do cozimento da massa
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)
