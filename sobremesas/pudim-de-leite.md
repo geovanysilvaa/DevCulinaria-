@@ -79,4 +79,4 @@ Sobremesas
 ---
 
 [Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../MENU.md)
+[Voltar ao Menu Principal](../menu.md)

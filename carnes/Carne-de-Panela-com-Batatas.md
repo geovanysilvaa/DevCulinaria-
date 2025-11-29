@@ -58,3 +58,6 @@ Se quiser um caldo mais grosso, amasse alguns pedaços de batata dentro da panel
 Você pode adicionar cenoura, louro ou páprica para mais sabor.
 
 Serve muito bem com arroz branco e salada fresquinha.
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)

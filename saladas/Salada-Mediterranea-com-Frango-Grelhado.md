@@ -51,6 +51,7 @@ Ingredientes para a Salada:
 
     1 colher de sopa de mostarda Dijon (opcional)
 
+
  ## Modo de Preparo
 1. Preparar os vegetais
 
@@ -91,3 +92,6 @@ Por último, incorpore o abacate para evitar que amoleça demais.
 5. Servir
 
 Sirva imediatamente, acompanhada de pão integral ou torradas, se desejar.
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)

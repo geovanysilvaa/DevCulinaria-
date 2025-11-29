@@ -55,5 +55,5 @@ Misture levemente para distribuir o tempero por igual.
 Acrescente croutons por cima, se desejar.
 Sirva imediatamente para manter todos os ingredientes frescos e crocantes.
 
-[Voltar à Categoria](../saladas)  
+[Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)
