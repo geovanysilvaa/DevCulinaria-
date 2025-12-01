@@ -122,6 +122,4 @@ Após a aprovação do PR.
 
 ## 📘 MENU Principal
 
-**Clique aqui para acessar o MENU.md**
-
 **[Clique aqui para acessar o MENU](MENU.md)**
