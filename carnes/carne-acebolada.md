@@ -24,6 +24,5 @@
 
 ---
 
-Um fio de shoyu no final transforma tudo sem esforço 🍶✨
 [Voltar ao MENU](../MENU.md)  
 [Voltar ao README](../README.md)
