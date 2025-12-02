@@ -96,11 +96,11 @@ Closes #104
 
 ---
 
-Revise a ortografia e a formatação antes do PR.
-Teste todos os links no preview do GitHub.
-Evite conflitos, verificando se alguém editou arquivos semelhantes recentemente.
-Mantenha comunicação constante com a equipe ou mantenedores do repositório.
-Sempre siga os padrões de branch, commit e estrutura de arquivos do repositório.
+- Revise a ortografia e a formatação antes do PR.
+- Teste todos os links no preview do GitHub.
+- Evite conflitos, verificando se alguém editou arquivos semelhantes recentemente.
+- Mantenha comunicação constante com a equipe ou mantenedores do repositório.
+- Sempre siga os padrões de branch, commit e estrutura de arquivos do repositório.
 
 ---
 
