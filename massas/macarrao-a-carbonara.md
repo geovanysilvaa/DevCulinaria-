@@ -13,5 +13,6 @@ Pimenta do reino moída: a gosto
 
 Sal: apenas para a água do cozimento da massa
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

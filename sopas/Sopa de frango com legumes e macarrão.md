@@ -57,5 +57,6 @@ Finalização:
 - Finalize:
 - Ajuste o sal, adicione cheiro-verde picado e desligue o fogo.
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

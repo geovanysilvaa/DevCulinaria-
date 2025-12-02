@@ -17,5 +17,6 @@ Uma sopa clássica, encorpada e muito saborosa, ideal para uma refeição comple
 - 1 folha de louro.
 - Cheiro-verde picado para finalizar.
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

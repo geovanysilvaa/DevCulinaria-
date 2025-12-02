@@ -28,5 +28,5 @@
 
 - 7 Retire do forno, deixe descansar por alguns minutos e sirva
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

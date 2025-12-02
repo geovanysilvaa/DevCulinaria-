@@ -22,5 +22,6 @@ Leve à geladeira por pelo menos 3 horas para firmar.
 
 (Opcional) Para a calda: leve ao fogo a polpa do maracujá com o açúcar até levantar fervura. Deixe esfriar e coloque por cima do mousse.
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

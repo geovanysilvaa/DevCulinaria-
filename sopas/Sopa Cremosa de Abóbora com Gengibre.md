@@ -16,5 +16,6 @@ Uma sopa leve, cremosa e com um toque aromático de gengibre, perfeita para aque
 - Creme de leite ou creme vegetal para finalizar (opcional).
 - Salsinha picada para decorar.
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

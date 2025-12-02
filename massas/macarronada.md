@@ -30,5 +30,6 @@ Se quiser, você pode reservar um pouco da água do cozimento para ajustar a con
 5. Sirva imediatamente
 Misture o macarrão com o molho de sua preferência (tomate, branco, bolonhesa etc.) e sirva quente.
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)

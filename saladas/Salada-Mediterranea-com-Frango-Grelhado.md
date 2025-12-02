@@ -51,5 +51,6 @@ Ingredientes para a Salada:
 
     1 colher de sopa de mostarda Dijon (opcional)
 
-[Voltar à Categoria](.)  
-[Voltar ao Menu Principal](../menu.md)
+
+[Voltar ao MENU](../MENU.md)  
+[Voltar ao README](../README.md)
