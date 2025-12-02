@@ -27,6 +27,7 @@ Escolha uma categoria para explorar:
 ## 🥩 Carnes
 - [Bolo de Carne de Pata](./carnes/bolo-de-carne-de-pata.md)
 - [Carne de Panela com Batatas](./carnes/Carne-de-Panela-com-Batatas.md)
+- [Carne acebolada](./carnes/carne-acebolada.md)
 
 ---
 
