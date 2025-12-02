@@ -1,18 +1,17 @@
-## Ingredientes para uma macarronada clássica
+# 🍝 Macarronada Clássica
 
-## Para o macarrão
+---
 
-500 g de macarrão (espaguete, penne ou o de sua preferência)
+## 🧂 Ingredientes
 
-Água
+- 500 g de macarrão (espaguete, penne ou o de sua preferência)
+- Água
+- Sal
+- 1 fio de óleo ou azeite (opcional)
 
-Sal
+---
 
-1 fio de óleo ou azeite (opcional)
-
-
-
-## Modo de Preparo do Macarrão
+## 🥣 Modo de Preparo do Macarrão
 
 1. Ferva a água
 Coloque uma panela grande com bastante água no fogo alto.
@@ -29,6 +28,8 @@ Use um escorredor para retirar toda a água.
 Se quiser, você pode reservar um pouco da água do cozimento para ajustar a consistência do molho depois.
 5. Sirva imediatamente
 Misture o macarrão com o molho de sua preferência (tomate, branco, bolonhesa etc.) e sirva quente.
+
+---
 
 [Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)

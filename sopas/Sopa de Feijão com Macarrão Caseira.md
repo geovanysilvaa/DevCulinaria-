@@ -1,8 +1,10 @@
-# Sopa de Feijão com Macarrão Caseira
+# 🥣 Sopa de Feijão com Macarrão Caseira
 
 Uma sopa clássica, encorpada e muito saborosa, ideal para uma refeição completa e reconfortante.
 
-## Ingredientes:
+---
+
+## 🧂 Ingredientes:
 
 - 2 colheres (sopa) de óleo ou azeite.
 - 1 cebola média picada.
@@ -16,6 +18,8 @@ Uma sopa clássica, encorpada e muito saborosa, ideal para uma refeição comple
 - Sal e pimenta-do-reino a gosto.
 - 1 folha de louro.
 - Cheiro-verde picado para finalizar.
+
+---
 
 [Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)

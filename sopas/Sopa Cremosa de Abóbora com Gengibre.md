@@ -1,8 +1,10 @@
-# Sopa Cremosa de Abóbora com Gengibre
+# 🍲 Sopa Cremosa de Abóbora com Gengibre
 
 Uma sopa leve, cremosa e com um toque aromático de gengibre, perfeita para aquecer e trazer conforto.
 
-## Ingredientes:
+---
+
+## 🥣 Ingredientes:
 
 - 2 colheres (sopa) de azeite de oliva.
 - 1 cebola pequena picada.
@@ -15,6 +17,8 @@ Uma sopa leve, cremosa e com um toque aromático de gengibre, perfeita para aque
 - 1 pitada de noz-moscada (opcional).
 - Creme de leite ou creme vegetal para finalizar (opcional).
 - Salsinha picada para decorar.
+
+---
 
 [Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)
