@@ -106,6 +106,7 @@ Closes #104
 
 ## 📌 Observações Finais
 
+
 - Conflitos podem ocorrer e devem ser resolvidos antes de abrir ou atualizar o PR.
 - Ao trabalhar em grupo, sincronize sempre sua branch com a principal antes de começar alterações.
 - Esse guia deve ser seguido por todos os colaboradores, garantindo padronização e qualidade no projeto.
